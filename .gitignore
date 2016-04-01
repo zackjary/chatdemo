@@ -1,3 +1,4 @@
+commit_template
 *.iml
 .gradle
 /local.properties

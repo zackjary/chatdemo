@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <declare-styleable name="ChangeColorTab">
+        <attr name="icon_normal" format="reference" />
+        <attr name="icon_selected" format="reference" />
+    </declare-styleable>
+</resources>

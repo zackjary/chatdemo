@@ -1,3 +1,16 @@
 <resources>
     <string name="app_name">聊天</string>
+
+    <string name="text_tab_message">消息</string>
+    <string name="text_tab_find">发现</string>
+    <string name="text_tab_interact">互动</string>
+    <string name="text_tab_mine">我</string>
+
+    <string name="action_search">查找</string>
+    <string name="action_more">更多</string>
+    <string name="action_add">添加</string>
+    <string name="menu_group_chat">发起群聊</string>
+    <string name="menu_feedback">意见反馈</string>
+    <string name="menu_addfriend">添加朋友</string>
+    <string name="menu_scan">扫一扫</string>
 </resources>
